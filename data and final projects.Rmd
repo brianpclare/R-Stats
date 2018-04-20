@@ -27,6 +27,10 @@ From a speaker the other night
 
 *"Don't be happy with the data you have. Go get the data you need"*
 
+## Give context
+
+Instead of just showing some numbers, try to explain why you think trends in data are happening. Use your knowledge of the topic, use supplemental data sets, whatever you need
+
 ## Data Dredging
 
 When you test a hypothesis compared to the null with $/alpha$ = 0.05, that means any time the null hypothesis is actually true you have a 5% chance of rejecting it.
