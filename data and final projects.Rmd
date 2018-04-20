@@ -53,4 +53,6 @@ A statistical hypothesis test is not the end of discussion.
 
 - Not statistically significant might still be enough to matter
 
+- In regression models, just because a variable isn't significant doesn't mean you should ignore it. Sometimes it's very informative to say that something was not significant
+
 
